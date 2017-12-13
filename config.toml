@@ -1,4 +1,4 @@
-baseurl = "http://rozzi.media/"
+baseurl = "https://rozzimedia.netlify.com/"
 title = "Rozzi Media Group"
 theme = "hugo-universal-theme"
 #themesDir = ""
@@ -6,7 +6,7 @@ languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "rozzi-media-group"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -98,7 +98,7 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
+    address = """<p><strong>Rozzi Media Group</strong>
         <br>PO Box 32
         <br>Lanoka Harbor, NJ
         <br>08734
@@ -114,7 +114,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us on (732)-504-3636 or hello@rozzi.media.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
