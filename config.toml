@@ -1,4 +1,4 @@
-baseurl = "https://rozzi.media/"
+baseurl = "http://rozzi.media/"
 title = "Rozzi Media Group"
 theme = "hugo-universal-theme"
 #themesDir = ""
@@ -74,7 +74,7 @@ paginate = 10
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "blue"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -89,26 +89,24 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "gr@gavinrozzi.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2017 - 2018, Rozzi media Group; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
     address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+        <br>PO Box 32
+        <br>Lanoka Harbor, NJ
+        <br>08734
+        <br>USA
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = ""
+    longitude = ""
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
