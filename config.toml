@@ -160,7 +160,7 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Our Media Properties"
-    subtitle = "Websites that are members of the Rozzi Media Group Family"
+    subtitle = ""
 
 [params.recent_posts]
     enable = true
