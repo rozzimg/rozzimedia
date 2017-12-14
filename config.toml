@@ -137,7 +137,7 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "About Gavin Rozzi"
+    title = "More About Gavin Rozzi"
     subtitle = "More information about Gavin Rozzi is available at his personal website."
     link_url = "https://www.gavinrozzi.com/"
     link_text = "Check out Gavin's homepage"
