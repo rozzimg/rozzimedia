@@ -48,18 +48,6 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 4
     name = "Email"
     url = "mailto:hello@rozzi.media"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
@@ -92,7 +80,7 @@ paginate = 10
     email = "gr@gavinrozzi.com"
 
     about_us = "<p>Delivering world-class media experiences.</p>"
-    copyright = "Copyright (c) 2017 - 2018, Rozzi Media Group; all rights reserved."
+    copyright = "Copyright (c) 2017 - 2018, Rozzi Media Group and Gavin Rozzi; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -100,7 +88,7 @@ paginate = 10
     logo = "img/logo.png"
     address = """<p><strong>Rozzi Media Group</strong>
         <br>PO Box 32
-        <br>Lanoka Harbor, NJ
+        <br>Lanoka Harbor, New Jersey
         <br>08734
         <br>USA
       </p>
@@ -149,10 +137,10 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "About Gavin Rozzi"
+    subtitle = "More information about Gavin Rozzi is available at his personal website."
+    link_url = "https://www.gavinrozzi.com/"
+    link_text = "Check out Gavin's homepage"
 
 [params.clients]
     enable = true
@@ -165,4 +153,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "What's new at RMG?"
+    subtitle = "What's new at RMG."
