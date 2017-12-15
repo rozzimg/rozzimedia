@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "rozzimedia.netlify.com"
-title = "Elate theme"
+title = "Rozzi Media Group"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -14,7 +14,7 @@ theme = "hugo-elate-theme"
   email = "hello@rozzi.media"
   # Navigation
   [params.navigation]
-    brand = "Elate"
+    brand = "Rozzi Media Group"
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"
@@ -48,7 +48,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Political Journalism"
-    description = "Ocean County Politics"
+    description = "Ocean County Politics has made an impact by publishing our online political newsletter."
     url = "#"
     button = "Get In Touch"
     icon = "icon-bulb"
@@ -56,7 +56,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Freedom of Information"
-    description = "OPRAmachine.com has released thousands of pages of government documents"
+    description = "OPRAmachine.com has released thousands of pages of government documents."
     url = "https://opramachine.com/"
     button = "Learn more"
     icon = "icon-wrench"
@@ -64,7 +64,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Consulting"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Put our expertise to work for your next project."
     url = "#"
     button = "Why us?"
     icon = "icon-rocket"
