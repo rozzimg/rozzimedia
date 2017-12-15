@@ -40,7 +40,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "We are Rozzi Media"
-    subtitle = 'Delivering media & open government platforms that serve the citizens of New Jersey'
+    subtitle = 'A boutique media and consulting firm based out of southern New Jersey. Our web properties serve the public with up-to-date news & authoritative information on New Jersey government. We also provide creative, client-centered solutions including technology and media consulting, copy editing, website design.'
 
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -49,8 +49,8 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Political Journalism"
     description = "Ocean County Politics has made an impact by publishing our online political newsletter."
-    url = "#"
-    button = "Get In Touch"
+    url = "https://politicsoc.com/"
+    button = "Read More"
     icon = "icon-bulb"
     img = "img_7.jpg"
 
@@ -64,7 +64,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Consulting"
-    description = "Put our expertise to work for your next project."
+    description = "Put our expertise in media and technology to work for your next project."
     url = "#"
     button = "Why us?"
     icon = "icon-rocket"
@@ -183,11 +183,11 @@ theme = "hugo-elate-theme"
       position = "President / CEO"
       description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
       img = "person1.jpg"
-      alt = "Person1"
+      alt = "Gavin Rozzi"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-twitter", "https://twitter.com/gavroz"],
+        ["icon-facebook", "https://www.facebook.com/gavinrozzi"],
+        ["icon-linkedin", "https://www.linkedin.com/in/gavin-rozzi-077b0745"]
       ]
 
   # Counters section
