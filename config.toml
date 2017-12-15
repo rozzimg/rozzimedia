@@ -81,26 +81,26 @@ theme = "hugo-elate-theme"
   [params.work]
     enable = true
     title = "Our Work"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+    description = "See what we have created."
+    footertext = ''
 
     [[params.work.row]]
       img = "work_1.jpg"
-      alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
+      alt = "Ocean County Politics"
+      title = "Ocean County Politics"
+      subtitle = "Online news website"
 
     [[params.work.row]]
       img = "work_2.jpg"
-      alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
+      alt = "JerseyLeaks"
+      title = "JerseyLeaks"
+      subtitle = "Whistleblowing platform"
 
     [[params.work.row]]
       img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
+      alt = "OPRAmachine"
+      title = "OPRAmachine"
+      subtitle = "Statewide tool to obtain public records"
 
     [[params.work.row]]
       img = "work_4.jpg"
