@@ -100,25 +100,7 @@ theme = "hugo-elate-theme"
       img = "work_3.jpg"
       alt = "OPRAmachine"
       title = "OPRAmachine"
-      subtitle = "Statewide tool to obtain public records"
-
-    [[params.work.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
+      subtitle = "Statewide tool for obtaining public records"
 
   # Testimonials section
   [params.testimonials]
