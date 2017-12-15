@@ -3,49 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rozzimedia.netlify.com/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rozzimedia.netlify.com/blog/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>rozzimedia.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzimedia.netlify.com/categories/</loc>
+    <loc>rozzimedia.netlify.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzimedia.netlify.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rozzimedia.netlify.com/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rozzimedia.netlify.com/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rozzimedia.netlify.com/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rozzimedia.netlify.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rozzimedia.netlify.com/tags/theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>rozzimedia.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
