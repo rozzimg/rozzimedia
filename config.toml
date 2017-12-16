@@ -89,7 +89,8 @@ theme = "hugo-elate-theme"
       alt = "Ocean County Politics"
       title = "Ocean County Politics"
       subtitle = "Ocean County's online news & opinion website"
-
+      url = "https://politicsoc.com/"
+      
     [[params.work.row]]
       img = "work_2.jpg"
       alt = "JerseyLeaks"
