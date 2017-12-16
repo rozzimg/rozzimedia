@@ -157,7 +157,7 @@ theme = "hugo-elate-theme"
 
   # About section
   [params.about]
-    enable = true
+    enable = false
     title = "About"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
