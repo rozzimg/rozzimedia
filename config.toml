@@ -81,23 +81,23 @@ theme = "hugo-elate-theme"
   [params.work]
     enable = true
     title = "Our Work"
-    description = "See what we have created."
+    description = "See what we've created."
     footertext = ''
 
     [[params.work.row]]
       img = "work_1.jpg"
       alt = "Ocean County Politics"
       title = "Ocean County Politics"
-      subtitle = "Online news website"
+      subtitle = "Ocean County's online news & opinion website"
 
     [[params.work.row]]
       img = "work_2.jpg"
       alt = "JerseyLeaks"
       title = "JerseyLeaks"
-      subtitle = "Whistleblowing platform"
+      subtitle = "Public corruption whistleblowing platform"
 
     [[params.work.row]]
-      img = "work_3.jpg"
+      img = "work_3.jpeg"
       alt = "OPRAmachine"
       title = "OPRAmachine"
       subtitle = "Statewide tool for obtaining public records"
