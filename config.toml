@@ -80,7 +80,7 @@ theme = "hugo-elate-theme"
   # Work section
   [params.work]
     enable = true
-    title = "Our Work"
+    title = "Our Media Properties"
     description = "See what we've created."
     footertext = ''
 
@@ -88,20 +88,19 @@ theme = "hugo-elate-theme"
       img = "work_1.jpg"
       alt = "Ocean County Politics"
       title = "Ocean County Politics"
-      subtitle = "Ocean County's online news & opinion website"
-      url = "https://politicsoc.com/"
+      subtitle = "Ocean County's online news & opinion website - https://politicsoc.com"
 
     [[params.work.row]]
       img = "work_2.jpg"
       alt = "JerseyLeaks"
       title = "JerseyLeaks"
-      subtitle = "Public corruption whistleblowing platform"
+      subtitle = "Public corruption whistleblowing platform - https://jerseyleaks.org"
 
     [[params.work.row]]
       img = "work_3.jpeg"
       alt = "OPRAmachine"
       title = "OPRAmachine"
-      subtitle = "Statewide tool for obtaining public records"
+      subtitle = "Statewide tool for obtaining public records - https://opramachine.com"
 
   # Testimonials section
   [params.testimonials]
@@ -134,25 +133,25 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Services"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "What We Do"
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "WordPress / Website Design and Consulting"
+      description = "We are available to provide assitance with web projects. We can also reccomend setups as far as hosting and content management systems / server tasks."
       icon = "icon-anchor"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Technology Consulting"
+      description = "We provide consultations to educate inviduals and groups about how to make the best use of their technology assets."
       icon = "icon-layers2"
     [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Photo &amp; Video Production"
+      description = "We have professional camera equipment and can document your event."
       icon = "icon-video2"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Coming Soon: Aerial Photography"
+      description = "Pending our obtaining a license from the FAA, we will soon offer drone-based aerial photography."
       icon = "icon-monitor"
 
   # About section
@@ -204,10 +203,10 @@ theme = "hugo-elate-theme"
       speed = 5000
 
     [[params.counters.item]]
-      description = "Happy clients"
+      description = "Monthly users of our sites"
       icon = "icon-people"
       from = 0
-      to = 52
+      to = 10000
       interval = 50
       speed = 5000
 
