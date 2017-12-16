@@ -16,11 +16,11 @@ theme = "hugo-elate-theme"
   [params.navigation]
     brand = "Rozzi Media Group"
     home = "Home"
-    work = "Work"
+    work = "What We Do"
     testimonials = "Testimonials"
     services = "Services"
-    about = "About"
-    contact = "Contact"
+    about = "Who We Are"
+    contact = "Contact Us"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
