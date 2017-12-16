@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "rozzimedia.netlify.com"
+baseurl = "rozzi.media"
 title = "Rozzi Media Group"
 languageCode = "en-us"
 theme = "hugo-elate-theme"

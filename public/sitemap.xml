@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>rozzimedia.netlify.com/categories/</loc>
+    <loc>rozzi.media/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>rozzimedia.netlify.com/</loc>
+    <loc>rozzi.media/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>rozzimedia.netlify.com/tags/</loc>
+    <loc>rozzi.media/tags/</loc>
     <priority>0</priority>
   </url>
   
