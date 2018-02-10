@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/gcr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rozzi.media
+  * I am gcr (https://keybase.io/gcr) on keybase.
+  * I have a public key ASC1cL41SekJnO9yBXT2LVFldif_lNalUm3atUDiUSHLuAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101db003de812282d3e41131dbfcaac3a79455812e57b6a33cfbcfbe15778a8c2de0a",
+      "host": "keybase.io",
+      "kid": "0120b570be3549e9099cef720574f62d51657627ff94d6a5526ddab540e25121cbb80a",
+      "uid": "abe609a59390de52c745bcc8857c6619",
+      "username": "gcr"
+    },
+    "merkle_root": {
+      "ctime": 1518277029,
+      "hash": "671b25e67763810f6bd128732888715be38e1424f6cfc783fed82f4622462ab47aecff5afc41dbab16a5846c9c4e94a22da01eee48026dc045965d46b16b6159",
+      "hash_meta": "7e536ecf2e71833d456730dd246f3f8548efb5edc58ed58a18bf492986b29c88",
+      "seqno": 2062754
+    },
+    "service": {
+      "hostname": "rozzi.media",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1518277076,
+  "expire_in": 504576000,
+  "prev": "22ff3c12e5c6a7e3e656bdde87c05a1c13086d707c24a5ca5bd8131c2527af3f",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtXC+NUnpCZzvcgV09i1RZXYn/5TWpVJt2rVA4lEhy7gKp3BheWxvYWTFAz97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZGIwMDNkZTgxMjI4MmQzZTQxMTMxZGJmY2FhYzNhNzk0NTU4MTJlNTdiNmEzM2NmYmNmYmUxNTc3OGE4YzJkZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjU3MGJlMzU0OWU5MDk5Y2VmNzIwNTc0ZjYyZDUxNjU3NjI3ZmY5NGQ2YTU1MjZkZGFiNTQwZTI1MTIxY2JiODBhIiwidWlkIjoiYWJlNjA5YTU5MzkwZGU1MmM3NDViY2M4ODU3YzY2MTkiLCJ1c2VybmFtZSI6ImdjciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxODI3NzAyOSwiaGFzaCI6IjY3MWIyNWU2Nzc2MzgxMGY2YmQxMjg3MzI4ODg3MTViZTM4ZTE0MjRmNmNmYzc4M2ZlZDgyZjQ2MjI0NjJhYjQ3YWVjZmY1YWZjNDFkYmFiMTZhNTg0NmM5YzRlOTRhMjJkYTAxZWVlNDgwMjZkYzA0NTk2NWQ0NmIxNmI2MTU5IiwiaGFzaF9tZXRhIjoiN2U1MzZlY2YyZTcxODMzZDQ1NjczMGRkMjQ2ZjNmODU0OGVmYjVlZGM1OGVkNThhMThiZjQ5Mjk4NmIyOWM4OCIsInNlcW5vIjoyMDYyNzU0fSwic2VydmljZSI6eyJob3N0bmFtZSI6InJvenppLm1lZGlhIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDAifSwiY3RpbWUiOjE1MTgyNzcwNzYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMjJmZjNjMTJlNWM2YTdlM2U2NTZiZGRlODdjMDVhMWMxMzA4NmQ3MDdjMjRhNWNhNWJkODEzMWMyNTI3YWYzZiIsInNlcW5vIjoyMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECpNaeHQxGpFwibOOJvJxwNV5g8wHKCw6+AznH+15QZc/iVaIYkAwuIqmTg/Nb9B12shHpqSz5KDglLKJHmEvwNqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg+cWrHvBRXPhYWxSDEUHZ0QlZ1nh1brEBjaasZ1I3WCCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gcr
+
+==================================================================
