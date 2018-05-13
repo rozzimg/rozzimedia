@@ -1,0 +1,179 @@
+<!DOCTYPE html> 
+<html lang="en-us">
+<head>
+	<title>
+		About - Rozzi Media Group
+	</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index,follow">
+	<base href="http://localhost:1313/">
+	<link rel="canonical" href="http://localhost:1313/about/"><meta name="description" content="A media firm focused on providing web content for New Jersey"> 
+	<link rel="alternate" type="application/rss" 
+	      href="http://localhost:1313/about/rss.xml" title="Rozzi Media Group">
+	<link rel="preload" href="http://localhost:1313/css/smorg.min.css" as="style">
+	<link rel="stylesheet" href="http://localhost:1313/css/smorg.min.css">
+	<meta name="generator" content="Hugo 0.40.3" />
+
+</head>
+<body>
+		
+	<nav class="navbar" aria-label="main navigation">
+		<div class="container">
+			<div class="navbar-brand">
+				<a class="navbar-item has-text-white-ter" 
+				   href="http://localhost:1313/"><span class="has-text-weight-bold"><span class="has-text-weight-bold">Rozzi <span class="has-text-danger">Media </span>Group</span></span>
+</a>
+				<div class="navbar-burger burger" data-target="navMenu">
+				  <span></span>
+				  <span></span>
+				  <span></span>
+				</div>
+			</div>
+			<div class="navbar-menu" id="navMenu">
+				<div class="navbar-end">
+					
+	<div class="navbar-item has-dropdown is-hoverable">
+		
+	<a class="navbar-link" href="http://localhost:1313/about/">About</a>
+<div class="navbar-dropdown">
+	<a class="navbar-item" href="http://localhost:1313/about/contact/">Contact Us</a>
+
+	<a class="navbar-item" href="http://localhost:1313/about/aboutrozzimedia">About Us</a>
+</div>
+	</div>
+	<div class="navbar-item has-dropdown is-hoverable">
+		
+	<a class="navbar-link" href="http://localhost:1313/project/">Projects</a>
+<div class="navbar-dropdown">
+	<a class="navbar-item" href="http://localhost:1313/project/hugo-smorg/">Hugo-Smorg</a>
+
+	<a class="navbar-item" href="http://localhost:1313/project/blorg-bread-machine/">Blorg Bread Machine</a>
+
+	<a class="navbar-item" href="http://localhost:1313/project/xyz-1000/">XYZ-1000</a>
+</div>
+	</div>
+	<a class="navbar-item" href="http://localhost:1313/post/">Blog</a>
+
+
+
+
+				</div>
+			</div>
+		</div>
+	</nav>
+
+<section class="section" itemscope itemtype="http://schema.org/WebPage">
+	<div class="container">
+		<div class="columns">
+			<div class="column is-8 is-offset-2">
+					
+
+
+<nav class="breadcrumb" aria-label="breadcrumbs">
+	<ul>
+
+		<li class="is-active">
+			<a href="/about/" 
+				aria-current="page">About</a>
+		</li>
+			<li >
+				<a href="/about/contact/">Contact</a>
+			</li>
+			<li >
+				<a href="/about/rozzimedia/">About Us</a>
+			</li>
+	</ul>
+</nav>
+
+				<article class="content">
+					<h1 class="title is-3">About</h1>
+<p>This example &ldquo;about&rdquo; page, and other pages associated with the &ldquo;About&rdquo; section,
+illustrate two features provided by Hugo-Smorg:</p>
+
+<ul>
+<li><strong>layout</strong>: subsection</li>
+<li><strong>partial</strong>: breadcrumbs (included in subsection layout by default)</li>
+</ul>
+
+<p>If you find a need for a layout like:</p>
+<div class="highlight"><pre class="chroma">/about/
+/about/contact/
+/about/contact-my-dog/
+/about/legal/</pre></div>
+<p>Then <code>_default/subsection.html</code> layout and <code>partials/section-crumbs.html</code> may be just
+what you need. To use simply add the following variable to your front-matter in all
+content found within the &ldquo;about&rdquo; section, including its <code>_index.html</code>:</p>
+<div class="highlight"><pre class="chroma">---
+layout: subsection
+---</pre></div>
+<p>By default the link title is the Page&rsquo;s title (.Name); long titles won&rsquo;t work
+well; you can supply <code>slug</code> in font-matter to override this for breadcrumbs:</p>
+<div class="highlight"><pre class="chroma">---
+slug: board
+---</pre></div>
+<p><strong>Note</strong>: Use of <code>slug</code> will also affect your Page&rsquo;s URL. Oftentimes this may
+be in line with what you want for a breadcrumb-appropriate menu. You can
+optionally maintain an alias to the former or any prior URI using <a href="https://gohugo.io/content-management/urls/#how-hugo-aliases-work">Hugo&rsquo;s alias
+feature</a> in
+page frontmatter:</p>
+<div class="highlight"><pre class="chroma">aliases: [/posts/my-old-url/]</pre></div>
+<p>Get the theme here: <a href="https://github.com/solutionroute/hugo-smorg">https://github.com/solutionroute/hugo-smorg</a>.</p>
+
+				</article>
+			</div>
+		</div>
+	</div>
+</section>
+
+<footer class="footer">
+  <div class="container content">
+	<div class="has-text-centered">
+		<p>Website design by <a href="https://www.gavinrozzi.com/">Gavin Rozzi</a> of
+			  
+		   <span class="has-text-weight-bold">Rozzi <span class="has-text-danger">Media </span>Group</span>
+			   
+		   </p>
+		<hr>
+		<p class="has-text-grey is-size-7">
+		 <i class="fab fa-github"></i> <a href="https://rozzi.media/">rozzi.media</a><br>
+			   
+		 &copy; 2016-18 Rozzi Media Group<br>
+			   
+		</p>
+	</div>
+  </div>
+</footer>
+
+
+<script type="application/ld+json">
+{ 
+	"@context": "http://schema.org", 
+	"@type": "WebPage",
+	"@id": "http://localhost:1313/about/",
+	"name": "About","description": "Demonstration of Hugo content management approach for subsection pages and associated breadcrumb menu."
+}
+</script>
+
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+  if ($navbarBurgers.length > 0) {
+    $navbarBurgers.forEach(function ($el) {
+      $el.addEventListener('click', function () {
+        var target = $el.dataset.target;
+        var $target = document.getElementById(target);
+        $el.classList.toggle('is-active');
+        $target.classList.toggle('is-active');
+      });
+    });
+  }
+});
+</script>
+ 
+
+</body>
+</html>

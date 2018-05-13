@@ -104,7 +104,7 @@ params:
 
     # fullname: Used in head and footer partials; Atom and RSS generation.
     # JSON-LD microdata for search engines
-    fullname: "Rozzi Media Group"
+    fullname: "World Class Media & Consulting Services"
 
     # Description: Used per fullname.
     description: "A media firm focused on providing web content for New Jersey"

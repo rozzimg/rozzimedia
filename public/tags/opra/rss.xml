@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opra on Rozzi Media Group</title>
+    <link>http://localhost:1313/tags/opra/</link>
+    <description>Recent content in Opra on Rozzi Media Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>hello@rozzi.media (Rozzi Media Group)</managingEditor>
+    <webMaster>hello@rozzi.media (Rozzi Media Group)</webMaster>
+    <copyright>&amp;copy; 2016-18 Rozzi Media Group</copyright>
+    <lastBuildDate>Fri, 04 May 2018 06:07:58 -0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/opra/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OPRAmachine</title>
+      <link>http://localhost:1313/project/opra/</link>
+      <pubDate>Fri, 04 May 2018 06:07:58 -0800</pubDate>
+      <author>hello@rozzi.media (Rozzi Media Group)</author>
+      <guid>http://localhost:1313/project/opra/</guid>
+      <description>OPRAmachine has radically simplified the process of requesting public records in all 565 municipalities in New Jersey. The web service has broken down barriers for individuals and organizations seeking to obtain authoritative information about New Jersey state &amp;amp; local government.</description>
+    </item>
+    
+  </channel>
+</rss>
