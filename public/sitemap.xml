@@ -3,123 +3,155 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rozzi.media/blog/migrate-from-jekyll/</loc>
+    <loc>http://example.org/blogs/aliquam/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blogs/</loc>
+    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blogs/tempus/</loc>
+    <lastmod>2017-10-31T22:26:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blogs/magna/</loc>
+    <lastmod>2017-10-31T22:26:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blogs/ipsum/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rozzi.media/blog/linked-post/</loc>
+    <loc>http://example.org/blog/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rozzi.media/blog/go-is-for-lovers/</loc>
+    <loc>http://example.org/blog/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rozzi.media/blog/hugo-is-for-lovers/</loc>
+    <loc>http://example.org/blog/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rozzi.media/blog/creating-a-new-theme/</loc>
+    <loc>http://example.org/blog/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rozzi.media/blog/</loc>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/categories/</loc>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/contact/</loc>
+    <loc>http://example.org/contact/</loc>
   </url>
   
   <url>
-    <loc>https://rozzi.media/tags/go/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/tags/golang/</loc>
+    <loc>http://example.org/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/tags/hugo/</loc>
+    <loc>http://example.org/tags/hugo/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/tags/ipsum/</loc>
+    <loc>http://example.org/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/categories/lorem/</loc>
+    <loc>http://example.org/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/tags/programming/</loc>
+    <loc>http://example.org/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/categories/programming/</loc>
+    <loc>http://example.org/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/categories/pseudo/</loc>
+    <loc>http://example.org/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
+    <loc>http://example.org/service/</loc>
   </url>
   
   <url>
-    <loc>https://rozzi.media/service/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rozzi.media/categories/starting/</loc>
+    <loc>http://example.org/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/tags/theme/</loc>
+    <loc>http://example.org/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rozzi.media/work/</loc>
+    <loc>http://example.org/work/</loc>
   </url>
   
 </urlset>
