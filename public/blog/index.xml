@@ -1,69 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Forty</title>
+    <title>Blog on Rozzi Media Group</title>
     <link>http://example.org/blog/</link>
-    <description>Recent content in Blogs on Forty</description>
+    <description>Recent content in Blog on Rozzi Media Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jul 2018 18:23:33 +0600</lastBuildDate>
     
 	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Migrate from Jekyll</title>
-      <link>http://example.org/blog/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Blog Photos on Phone</title>
+      <link>http://example.org/blog/blog-photos-on-phone/</link>
+      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
       
-      <guid>http://example.org/blog/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>http://example.org/blog/blog-photos-on-phone/</guid>
+      <description>Viral dreamcatcher keytar typewriter, aesthetic offal umami. Wellness spaces that reach neglected communities of color are essential, says spiritual advisor, mojo health advocate, and writer Anna Smith. As the 26-year-old Brooklyn native will tell you in her signature metaphysical-no-chaser way, when your mojo is in a bad place every aspect of your life is affected. She’s part of a growing effort to foster more inclusive healing spaces that take into account how racism, poverty, ableism, misogyny, and gender discrimination inform our self-care needs.</description>
     </item>
     
     <item>
-      <title>Linked post</title>
-      <link>http://example.org/blog/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>The Nourish Box August</title>
+      <link>http://example.org/blog/the-nourish-box-august/</link>
+      <pubDate>Sun, 08 Jul 2018 12:20:58 +0600</pubDate>
       
-      <guid>http://example.org/blog/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <guid>http://example.org/blog/the-nourish-box-august/</guid>
+      <description>Viral dreamcatcher keytar typewriter, aesthetic offal umami. Wellness spaces that reach neglected communities of color are essential, says spiritual advisor, mojo health advocate, and writer Anna Smith. As the 26-year-old Brooklyn native will tell you in her signature metaphysical-no-chaser way, when your mojo is in a bad place every aspect of your life is affected. She’s part of a growing effort to foster more inclusive healing spaces that take into account how racism, poverty, ableism, misogyny, and gender discrimination inform our self-care needs.</description>
     </item>
     
     <item>
-      <title>Go is for lovers</title>
-      <link>http://example.org/blog/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>This Show Has Divided</title>
+      <link>http://example.org/blog/this-show-has-divided/</link>
+      <pubDate>Sun, 08 Jul 2018 12:18:46 +0600</pubDate>
       
-      <guid>http://example.org/blog/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>http://example.org/blog/this-show-has-divided/</guid>
+      <description>Chatting with the ancestors I always say my thanks to my ancestors and talk with them, with my guides. I talk to them about my day, what I want, what they need of me. I give my thanks to them for the day, even if I had a bad day. I let them know, ‘Thank you for making sure I ain’t die today, I survived through the fuck shit.It’s a big comfort to me to have that open line of communication because so many of my spirit guides are people who I knew in this lifetime who passed on, one being my father, one being my abuelita.</description>
     </item>
     
     <item>
-      <title>Hugo is for lovers</title>
-      <link>http://example.org/blog/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <title>Why You Need a Statement Bag</title>
+      <link>http://example.org/blog/why-you-need-a-statement-bag-this-season/</link>
+      <pubDate>Sun, 08 Jul 2018 12:11:29 +0600</pubDate>
       
-      <guid>http://example.org/blog/hugo-is-for-lovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>http://example.org/blog/why-you-need-a-statement-bag-this-season/</guid>
+      <description>A cleansing hot shower or bath I like to start with taking a shower or a bath when getting ready for bed. I’ll always incorporate either Himalayan pink salt or Epsom salt into my routine. Then, I’ll do an in-shower meditation, just releasing my day and allowing it to wash down the drain. I like to start from the neck down to symbolize washing and removing anything, and then I go from the feet up after to symbolize recharging my energy.</description>
     </item>
     
     <item>
-      <title>Creating a new theme</title>
-      <link>http://example.org/blog/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <title>Are You Doing the Right Way</title>
+      <link>http://example.org/blog/are-you-doing-the-right-way/</link>
+      <pubDate>Sat, 07 Jul 2018 17:04:41 +0600</pubDate>
       
-      <guid>http://example.org/blog/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>http://example.org/blog/are-you-doing-the-right-way/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra.</description>
+    </item>
+    
+    <item>
+      <title>Something I Need to Tell You</title>
+      <link>http://example.org/blog/something-i-need-to-tell-you/</link>
+      <pubDate>Sat, 07 Jul 2018 17:04:02 +0600</pubDate>
+      
+      <guid>http://example.org/blog/something-i-need-to-tell-you/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra.</description>
+    </item>
+    
+    <item>
+      <title>Ten Things About Business</title>
+      <link>http://example.org/blog/ten-things-about-business/</link>
+      <pubDate>Sat, 07 Jul 2018 16:57:54 +0600</pubDate>
+      
+      <guid>http://example.org/blog/ten-things-about-business/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Turpis massa tincidunt dui ut ornare lectus sit amet est. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. At volutpat diam ut venenatis. Mi quis hendrerit dolor magna eget. Dui ut ornare lectus sit amet est placerat. Urna cursus eget nunc scelerisque viverra.</description>
     </item>
     
   </channel>

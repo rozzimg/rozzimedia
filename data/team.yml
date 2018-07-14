@@ -1,0 +1,15 @@
+enable  : true
+topTitle: TEAM MEMBER
+title   : Our Team.
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+
+member  :
+  - image         : images/team/gavin.jpg
+    name          : Gavin Rozzi
+    designation   : CEO / President
+    description   : >
+      Gavin Rozzi created Rozzi Media Group
+    facebookURL   : https://www.facebook.com/gavinrozzi
+    twitterURL    : https://twitter.com/gavroz
+    gplusURL      : https://plus.google.com/
+    dribbbleURL   : https://dribbble.com/

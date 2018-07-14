@@ -1,12 +1,6 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-description: ""
-slug: ""
-image: ""
-keywords: ""
-categories: 
-    - "{{ replace .TranslationBaseName "-" " " | title }}"
-    - ""
+title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: false
+draft: true
 ---
+

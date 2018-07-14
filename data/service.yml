@@ -1,45 +1,28 @@
-enable: true
-title: Our Services
-subtitle: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
-content:
+enable    : true
+topTitle  : A LIST OF SERVICES
+title     : Our Service.
+subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+item      :
+  - icon  : tf-ion-ios-copy-outline
+    title : Branding
+    list  :
+      - name : Brand Strategy  
+      - name : Advertising / Campaigns  
+      - name : Product Design
+      - name : Video / Photography
 
-  - icon: ion-coffee
-    name: Branding
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+  - icon  : tf-ion-ios-alarm-outline
+    title : Branding
+    list  :
+      - name : Web Design
+      - name : E- Commerce Site Design
+      - name : App Development
+      - name : Mobile UI Design
 
-  - icon: ion-compass
-    name: Web Design
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-image
-    name: App Design
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-bug
-    name: Start Up
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-headphone
-    name: Logo Design
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-leaf
-    name: Development
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-planet
-    name: Brand Identity
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-earth
-    name: Brand Identity
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+  - icon  : tf-ion-ios-book-outline
+    title : IOS App Development
+    list  :
+      - name : Game Development
+      - name : Game Design
+      - name : Social Media Marketing
+      - name : Mobile UI Design
